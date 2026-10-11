@@ -1,1 +1,1 @@
-# C-programming-language
+Currently, I am diving deep into the world of C programming and low-level systems. To sharpen my skills and build a rock-solid foundation, I am tackling daily coding exercises that cover everything from basic operations and functions to complex data structures and advanced pointer manipulation. Follow along as I explore how software interacts directly with hardware!
